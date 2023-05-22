@@ -1,0 +1,19 @@
+{
+    "name": "Brunutsu",
+    "description": "Best doggo",
+    "image": "https://ipfs.io/ipfs/QmYWDpWFVq5y4GXixkCQozZ69BDWsYSQz4eTXYhiRvCXDr",
+    "attributes": [
+        {
+            "trait_type": "Power",
+            "value": 100
+        },
+        {
+            "trait_type": "Cuteness",
+            "value": 100
+        },
+        {
+            "trait_type": "Dawg",
+            "value": "Yes"
+        }
+    ]
+} 
